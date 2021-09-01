@@ -1,5 +1,5 @@
 #
-# Requirements for pybamm-cellmodels
+# Requirements for pybamm_cellmodels
 #
 
 pybamm==0.4.0
